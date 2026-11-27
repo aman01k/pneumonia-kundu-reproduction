@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Drafts and personal notes kept out of the repo
+Kundu_Pneumonia_M2_M4_CLAHE.ipynb
+Context_for_Claude_Chat.md
